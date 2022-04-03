@@ -1,11 +1,12 @@
 # CS6910_Assignment2
+
 We have three parts of this assignment:
 Part A 
--deals with building a CNN model from scratch having 5 layers and training it on inaturalist dataset to build a classifier.
+->deals with building a CNN model from scratch having 5 layers and training it on inaturalist dataset to build a classifier.
 Part B
--deals with transfer learning and using pretrained models like Xception, InceptionV3, InceptionresnetV2, Resnet50 to build the classifier.
+->deals with transfer learning and using pretrained models like Xception, InceptionV3, InceptionresnetV2, Resnet50 to build the classifier.
 Part C
--
+->
 We have used various libraries such as numpy, keras, tensorflow and wandb to represent the metrics.
 
 PART-A
