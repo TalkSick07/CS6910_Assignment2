@@ -1,5 +1,10 @@
 # CS6910_Assignment2
 
+Link to WandB Report:
+
+https://wandb.ai/nomads/CS6910_DL_Assignment2/reports/CS6910_DL_ASSIGNMENT_Final--VmlldzoxNzgyMjAx
+
+
 We have three parts of this assignment:
 Part A 
 ->deals with building a CNN model from scratch having 5 layers and training it on inaturalist dataset to build a classifier.
