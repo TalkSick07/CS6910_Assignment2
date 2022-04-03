@@ -2,8 +2,7 @@
 
 Link to WandB Report:
 
-https://wandb.ai/nomads/CS6910_DL_Assignment2/reports/CS6910_DL_ASSIGNMENT_Final--VmlldzoxNzgyMjAx
-
+https://wandb.ai/nomads/CS6910_DL_Assignment2/reports/CS6910_DL_ASSIGNMENT_Final--VmlldzoxNzgyMjAx?accessToken=scib0jj3oxig1cn75i08kuw4z4vrx8mod0echlgppvkoo6e3v7inp8gfftjl4pc1
 
 We have three parts of this assignment:
 Part A 
