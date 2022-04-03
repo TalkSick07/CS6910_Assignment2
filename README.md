@@ -6,6 +6,7 @@ Part C
 We have used various libraries such as numpy, keras, tensorflow and wandb to represent the metrics.
 
 PART-A
+
 Building a 5 layered CNN model from scratch using Keras to classify the inaturalist dataset. Since the dataset were large, we used data generators to generate data batch by batch during runtime.
 We used the following sweep configurations for tuning the hyperparameters:
 Method: Bayes
