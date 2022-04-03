@@ -6,7 +6,7 @@ Part A
 Part B
 ->deals with transfer learning and using pretrained models like Xception, InceptionV3, InceptionresnetV2, Resnet50 to build the classifier.
 Part C
-->
+->deals with object detection in real time and we have directly used a pretrained model YoloV3 to demonstrate object detection on roads/highways to reduce the number of accidents.
 We have used various libraries such as numpy, keras, tensorflow and wandb to represent the metrics.
 
 PART-A
@@ -66,4 +66,8 @@ best_batch_norm= False
 best_data_augment= False
 best_pre_trained_model= 'Inceptionresnetv2'        
 image_size=299
-With the above best configuration, test accuracy was found to be 81.70
+With the above best configuration, test accuracy was found to be 81.70%.
+
+PART -C
+
+We have directly used a pretrained deep learning model called YoloV3 to perform object detection in real time. Our idea is to alert the driver of a nearby object by drawing his attention to a nearby person/car/cyclist etc. by alerting him beforehand, thus reducing the number of road accidents considerably.
