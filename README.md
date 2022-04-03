@@ -70,4 +70,4 @@ With the above best configuration, test accuracy was found to be 81.70%.
 
 PART -C
 
-We have directly used a pretrained deep learning model called YoloV3 to perform object detection in real time. Our idea is to alert the driver of a nearby object by drawing his attention to a nearby person/car/cyclist etc. by alerting him beforehand, thus reducing the number of road accidents considerably.
+We have directly used a pretrained deep learning model called YoloV3 to perform object detection in real time. Our idea is to alert the driver of a nearby object by drawing his attention to a nearby person/car/cyclist etc. by alerting him beforehand, thus reducing the number of road accidents considerably. The demo video can be found here: https://www.youtube.com/watch?v=titUlkF_a9g
