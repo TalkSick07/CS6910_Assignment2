@@ -1,4 +1,4 @@
-# CS6910_Assignment2
+# CNN based Image Classifier
 
 Link to WandB Report:
 
